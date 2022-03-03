@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TuDevOps
-- 👀 I’m interested in everything about IT
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @TuNguyen
+- 👀 I’m interested in Computer Netowrk and Cybersecurity
+- 🌱 I’m currently learning Hanoi University of Science and Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
